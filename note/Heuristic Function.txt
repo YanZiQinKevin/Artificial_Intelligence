@@ -1,0 +1,5 @@
+Heuristic Function
+
+A problem with fewer restriction on the actions is called a relaxed problem
+
+A* search expands every node with f(n)<C* or h(n)<C* - g(n)
