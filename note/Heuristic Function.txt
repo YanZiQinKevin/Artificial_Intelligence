@@ -3,3 +3,9 @@ Heuristic Function
 A problem with fewer restriction on the actions is called a relaxed problem
 
 A* search expands every node with f(n)<C* or h(n)<C* - g(n)
+Therefore, A* search with h1 will expand more nodes
+
+d12  IDS =3,644,032 nodes
+	 A*(h1)=227node
+	 A*(h2)=73
+
