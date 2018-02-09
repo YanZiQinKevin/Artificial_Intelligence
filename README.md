@@ -3,6 +3,8 @@
 **COURSE DESCRIPTION**
 
 Knowledge representation and reasoning; Theory and advanced programming techniques; Topics selected from areas of expert systems, natural language processing, image understanding, machine learning, games, and robotics.
+
+
 TENTATIVE SCHEDULE:
   AI: Concepts and history
   Solving problems by searching
