@@ -34,13 +34,13 @@ o Robotics
 o Computer vision  
 o Natural language processing  
 
-#Assignment 1 8-Puzzle Programming. Implementation of function "Iterative_deeping_DFS", aStarMisplacedTile and  aStarMangattanDistance.
+### Assignment 1 8-Puzzle Programming. Implementation of function "Iterative_deeping_DFS", aStarMisplacedTile and  aStarMangattanDistance.
 
-#Assignment 2 22queen. Implementation of Backtracking
+### Assignment 2 22queen. Implementation of Backtracking
 
-#Assignment 3 Tic-Tac_Toe.    Implementation of Decision Tree (MiniMax)
+### Assignment 3 Tic-Tac_Toe.    Implementation of Decision Tree (MiniMax)
 
-#Assignment 4 Value Iteration  In a 10x10 grid world, do 30 times value iteration:  
+### Assignment 4 Value Iteration  In a 10x10 grid world, do 30 times value iteration:  
 A 10x10 grid world  
 2. Noise=0.15, discount = 0.91  
 3. There are four actions west, east, north, south. The actions are all “north” in the initial policy. After each iteration, the actions in the policy need to be updated to the direction that points to the adjacent grid that has the highest value.  
