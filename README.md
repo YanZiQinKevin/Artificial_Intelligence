@@ -50,4 +50,4 @@ A 10x10 grid world
 7. The agent will stay at the same position if it moves towards a stone or a wall.
 8. The output should contain the number of iteration statuses of the grid world in the following format. The following is one status. STONE stands for a stone. 0.00 stands for the current value. The actions of the current policy are indicated as w, e, n, and s.
 
-![course](https://github.com/YanZiQinKevin/Artificial_Intelligence/blob/master/pdf/IMG_2325.PNG)
+
